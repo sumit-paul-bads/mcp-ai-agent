@@ -156,10 +156,10 @@ gcloud run deploy mcp-agent \
 
 (Add your 5 images here)
 
-- Cloud Run Deployment
-- Terminal Logs
-- API Output
-- GitHub Repository
+- Final Test
+- MCP Agent Live
+- Terminal Logs Deployment
+- Terminal Logs Local Test
 - Local Testing
 
 ---
